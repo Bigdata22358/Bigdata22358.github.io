@@ -1,5 +1,5 @@
 name: https://bigdata22358.github.io/
-description: Offical website for the robotics team:/ Bigdata 22358
+description: Offical website for the robotics team: Bigdata 22358
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme 
