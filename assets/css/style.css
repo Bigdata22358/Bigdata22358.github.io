@@ -1,9 +1,11 @@
+@import "{{ site.theme }}";
+
 body {
     background-color: lightblue;
 }
 
 title {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'site.theme';
     font-size: 30px;
 }
 
