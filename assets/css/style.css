@@ -3,6 +3,10 @@
 
 @import "jekyll-theme-minimal";
 
+header {
+    display: none;
+  }
+  
 ul {
     list-style-type: none;
     margin: 0;
