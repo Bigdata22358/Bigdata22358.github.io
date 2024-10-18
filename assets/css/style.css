@@ -1,8 +1,4 @@
----
----
-
-@import "{{ site.theme }}";
-    ul {
+ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -37,6 +33,7 @@ title {
 a {
     color: black;
 }
+
 body {
     font-family: etc;
 }
